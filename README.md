@@ -1,0 +1,2 @@
+# shedo
+my first project
